@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=B612&display=swap');
+
+.eng{
+	background-color: black;
+  color: lightgrey;
+}
+#ecam{
+  background-color: black;
+  height: 500px;
+  width: 500px;
+}
+#ecam > .green{
+  color: green;
+  font-family: 'B612', sans-serif;
+}
+#engecam{
+  border: 1.5px green solid;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  color: green;
+  font-family: 'B612', sans-serif;
+  background-color: black;
+  margin-left: 60px;
+}
+#engOneBox{
+  border: 1.5px green solid;
+  margin-left: 20px;
+  background-color: black;
+  font-size: 11px;
+  width: 30px;
+  margin-top: 20px;
+}
+#engOneLine{
+  width: 3px;
+  height: 26px;
+  background-color: yellow;
+  margin-top: -41px;
+  margin-left: 11px;
+  transform: rotate(-90deg);
+}
+
+/* Engine Two ECAM */
+
+/* Parent Element Below */
+#engecamOne{
+  border: 1.5px green solid;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  color: green;
+  font-family: 'B612', sans-serif;
+  background-color: black;
+  margin-left: 300px;
+  margin-top: -50px;
+}
+#engTwoBox{
+  border: 1.5px green solid;
+  margin-left: 20px;
+  background-color: black;
+  font-size: 11px;
+  width: 30px;
+  margin-top: 20px;
+}
+#engTwoLine{
+  width: 3px;
+  height: 26px;
+  background-color: yellow;
+  margin-top: -41px;
+  margin-left: 11px;
+  transform: rotate(-90deg);
+}
+p{
+  color: green;
+  font-family: 'B612', sans-serif;
+  font-size: 11px;
+}
+#airwayOne{
+  width: 50px;
+  height: 25px;
+  background-color: black†;
+  border-radius: 150px 150px 0 0;
+  border-top: 1.5px green solid;
+  border-left: 1.5px green solid;
+  border-right: 1.5px green solid;
+  margin-left: 60px;
+  margin-top: 100px;
+}
+.air434{
+  margin-left: 17%;
+  text-align: center;
+  border: 1.5px green solid;
+  width: 30px;
+}
+#airwayTwo{
+  width: 50px;
+  height: 25px;
+  background-color: black;
+  border-radius: 150px 150px 0 0;
+  border-top: 1.5px green solid;
+  border-left: 1.5px green solid;
+  border-right: 1.5px green solid;
+  margin-left: 300px;
+  margin-top: -25px;
+}
